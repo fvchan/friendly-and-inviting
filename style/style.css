@@ -1,0 +1,138 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.welcome {
+	font-family: 'Oldenburg', cursive;
+	text-align: center;
+}
+
+
+.kiddie {
+	font-family: 'Clicker Script', cursive;
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	padding: 0;
+}
+
+.header-text {
+	line-height: 100px;
+}
+
+section {
+	width: 74%;
+	height: auto;
+	float: left;
+}
+
+aside {
+	width: 25%;
+	height: auto;
+	float: right;
+}
+
+nav {
+	background-color: #FC9F5B;
+	width: 100%;
+	text-align: center;
+	word-spacing: 30px;
+	padding: 20px;
+}
+
+header{
+	background-image: url(http://3.bp.blogspot.com/-RoQ2a6sR4JA/Vk1s6dVnNRI/AAAAAAAABow/mb7nh6M15kg/s000/header.png);
+	height: 435px;
+}
+
+main{
+	background-color: rgba(0, 0, 255, 0.3);
+	height: auto;
+	width: 1200px;
+	margin: auto;
+	padding: 0px;
+	font-family: 'Clicker Script', cursive;
+	
+}
+footer {	
+	background-color: #E6E1C5;
+	padding: 10px;
+	color: black;
+	font-size: 15px;
+	word-spacing: 10px;
+}
+.border {
+	border: 1px solid green;
+	width: 200px;
+	height: 200px;
+	padding: 10px 10px 50px 10px;
+	text-align: center;
+	display: inline-block;
+	margin: 10px;
+
+}
+
+.pic-box {
+	background-color: #FFC857;
+	height: 100%;
+	width: 100%;	
+	margin-bottom: 10px;
+}
+
+a {
+	font-family: 'Clicker Script', cursive;
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+
+
+}
+
+a:hover {
+	color: white;
+}
+
+.clear {
+    clear: both;
+}
+
+.pop-post h2 {
+	background: url(http://3.bp.blogspot.com/-iCCGyrbD20I/Vk1s7APB-KI/AAAAAAAABo0/Y96vYBkrH58/s000/sidebar.png)
+	no-repeat left center;	
+	font-size: 30px;
+    font-weight: normal;
+    padding: 20px 0px 20px 0px;
+    margin: 0px;
+    text-align: left;
+
+}
+
+body {
+	background: url(http://cdn26.us1.fansshare.com/photo/cartoonwallpapers/kartandtinki-kid-wallpaper-cool-cartoon-gangster-wallpapers-1069422526.jpg);
+	background-size: 1440px 900px;
+	background-repeat: no-repeat;
+	background-position: center bottom;    
+
+}
+
+
+.toy {
+	width: 50px;
+	height: 50px;
+}
+
+.pop-post, ul, li {
+	list-style-type: none;
+}
+
+.comment-post h2 {
+	background: url(http://3.bp.blogspot.com/-iCCGyrbD20I/Vk1s7APB-KI/AAAAAAAABo0/Y96vYBkrH58/s000/sidebar.png)
+	no-repeat left center;
+	margin-bottom: 15px;
+}
+		}
+
+
+
