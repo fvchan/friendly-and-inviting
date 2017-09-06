@@ -4,16 +4,17 @@
 	box-sizing: border-box;
 }
 
-@import  url(//fonts.googleapis.com/css?family=Oldenburg" );
 
 .welcome {
 	font-family: 'Oldenburg', cursive;
+	src: url('Oldenburg-Regular.ttf');
 	text-align: center;
 }
 
 
 .kiddie {
 	font-family: 'Clicker Script', cursive;
+	src: url('ClickerScript-Regular.ttf');
 	text-align: center;
 	color: white;
 	font-size: 50px;
@@ -45,7 +46,8 @@ nav {
 }
 
 header{
-	background-image: url(http://3.bp.blogspot.com/-RoQ2a6sR4JA/Vk1s6dVnNRI/AAAAAAAABow/mb7nh6M15kg/s000/header.png);
+	background-image: url("http://3.bp.blogspot.com/-RoQ2a6sR4JA/Vk1s6dVnNRI/AAAAAAAABow/mb7nh6M15kg/s000/header.png");
+
 	height: 435px;
 }
 
@@ -56,6 +58,7 @@ main{
 	margin: auto;
 	padding: 0px;
 	font-family: 'Clicker Script', cursive;
+	src: url('ClickerScript-Regular.ttf');
 	
 }
 footer {	
@@ -85,6 +88,7 @@ footer {
 
 a {
 	font-family: 'Clicker Script', cursive;
+	src: url('ClickerScript-Regular.ttf');
 	font-size: 20px;
 	text-decoration: none;
 	color: black;
