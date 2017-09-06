@@ -4,6 +4,8 @@
 	box-sizing: border-box;
 }
 
+@import  url(//fonts.googleapis.com/css?family=Oldenburg" );
+
 .welcome {
 	font-family: 'Oldenburg', cursive;
 	text-align: center;
